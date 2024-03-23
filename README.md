@@ -28,5 +28,6 @@ This is a simple library management system implemented in Java, utilizing Swing 
 
 Navigate to src folder
 write the following commands
-javac library/*.java #to compile all java files with a common package library
+javac library/*.java  #to compile all java files with a common package library
+
 java -cp . Library.Main #execute the entry point for compiled files
